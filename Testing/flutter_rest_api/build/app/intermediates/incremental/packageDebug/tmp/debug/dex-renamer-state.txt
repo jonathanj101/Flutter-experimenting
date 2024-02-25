@@ -1,0 +1,4 @@
+#Sat Feb 24 20:51:03 EST 2024
+base.0=/home/jonathan/Documents/Flutter/Testing/flutter_rest_api/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
